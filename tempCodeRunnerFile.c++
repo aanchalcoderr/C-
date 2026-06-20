@@ -1,10 +1,11 @@
-#include<iostream>
+
+// #include<iostream>
 // using namespace std;
 // int main(){
-//     int a=34;
-//     float b=78.98;
-
-//     cout<<(float)a<<endl;
-//     cout << float(a)<<endl;
-//     cout<<int(b);
+//     int i=2;
+//     do{
+//         cout<<i<<endl;
+// i++;
+//     }
+//     while(i<=40);
 // }
