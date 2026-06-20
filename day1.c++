@@ -19,3 +19,5 @@ int a;
 cin>>a;
 cout<< "heelo is day 1 "<<"the value of a is "<<a<<endl;
 return 0;}
+
+

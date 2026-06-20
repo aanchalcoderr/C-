@@ -57,3 +57,32 @@
 //     }
 //     while(i<=40);
 // }
+
+//table of 6 -----using for loop
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int n=6;
+//     for(int i=1;i<10;i++){
+//         cout<<n*i<<endl;
+
+//     }
+//     return 0;
+// }
+
+
+//table of 6----using while loop
+
+
+#include<iostream>
+using namespace std;
+int main(){
+    int n=6,i=1;
+    while(i<=10){
+        cout<<n*i<<endl;
+        i++;
+
+    }
+    return 0;
+}

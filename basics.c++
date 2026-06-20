@@ -1,4 +1,6 @@
-// #include<iostream>
+// boilerplate made snippet using gear-> snippets ->then select language
+// 
+// // #include<iostream>
 // using namespace std;
 // int main(){
 //     int age;
@@ -31,3 +33,7 @@ int main(){
     cin>>age;
     cout<<"age is "<<age<<endl;
 }
+
+
+
+/////
